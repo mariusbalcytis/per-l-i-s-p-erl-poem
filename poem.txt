@@ -1,0 +1,14 @@
+#| #                                         The common symbol
+
+my @foot = $is = ('already', 'hurting');            # |#  (the complex #C(0 1)) '(feelings know better)               #|
+$this = $is {how} {'long'} = "I've been searching"; # |#  '(so) (let ((me (open "/Your/letter")))                     #|
+                                                    # |#                                                              #|
+$just = $please = open (my $love, "+>", "letter")   # |#  '(please come closer) (and 'I'll) (let ((You (read me)))    #|
+or die without (knowing * better);                  # |#  (when 'my (every #'sin '()) 'wants 'for 'You 'to 'heal 'me  #|
+                                                    # |#                                                              #|
+"" and ""; for my $every (@foot){print              # |#  (let ((us 'meet))                                           #|
+$love "♥"," please", "give me a small hint" ;}      # |#      (let ((me (describe You)))                              #|
+                                                    # |#  '(the common symbol with me will bind You  ))))))
+   	  		  		  	 	
+	
+  
